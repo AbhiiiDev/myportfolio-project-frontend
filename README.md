@@ -1,1 +1,3 @@
-# portfolio-project-html-css-js-front-end
+# THIS IS MY PORTFOLIO WEBSITE
+-> languages used in this: HTML, CSS, JS
+-> only FRONTEND webstie
